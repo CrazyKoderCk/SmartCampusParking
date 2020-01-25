@@ -1,0 +1,49 @@
+﻿	  	      < Smart Campus Parking System >
+
+
+REQUIREMENTS :
+
+
+    • Hardware Requirements:
+	
+	IR Sensors : Used for vehicle Detection within the sense range
+
+	Arduino / Rasberry pi : Acts as the circuit controller
+
+	Wifi Module : Used for transfer of sensor data wirelessly to remote device
+
+	Attachment Wires : Acts as a connecting medium between circuit and sensors
+
+	Data Transmission module : Used to transmission of data
+
+	Camera : Used for vehicle detection
+
+
+
+    • Software Requirements:
+
+	
+	1.Front-End
+
+	
+    • HTML : Acts as frame work
+      
+    • CSS : used for styling of framework
+      
+    • React / Angular JS : helps in development of frame work
+      
+      
+	2.Back-End
+
+    • Python : Coding language that will be used
+      
+    • Blynk / twilio : Apps for sensor related 
+      
+    • Cordova / Android Studio : used for Android App development
+      
+    • Open CV : Used for vehicle detection
+      
+      
+		
+
+	
